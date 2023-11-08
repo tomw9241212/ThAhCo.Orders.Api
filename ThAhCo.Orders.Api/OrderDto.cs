@@ -1,0 +1,1 @@
+﻿record OrderDto(int CustomerId, DateTime RequestedDate);
